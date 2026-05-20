@@ -41,7 +41,7 @@ Synthesizes all three tracks into a prioritized digest. CRITICAL = act today. HI
 ### 1. Clone and create a virtual environment
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/market-watch.git
+git clone https://github.com/ar0000n/arunos-market-watch.git
 cd market-watch
 python3 -m venv .venv
 source .venv/bin/activate
