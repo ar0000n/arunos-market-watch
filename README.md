@@ -6,6 +6,16 @@ Built on the raw Anthropic API. No frameworks. Orchestrator + three parallel wor
 
 ---
 
+## Why I Built This
+
+Built during a deliberate career transition after leaving Wayfair in May 2026. I wanted to deeply understand multi-agent architecture as a practitioner — not just someone who can talk about agents, but someone who has designed one, made real architectural tradeoffs, and written evals against it.
+
+The job search problem is real and personal, which keeps the bar honest. If the agent surfaces noise, I waste time. If it misses a signal, I miss an opportunity. That forcing function produces better evals than any toy problem would.
+
+This is Track 1 of ArunOS — a larger multi-agent system. An interview prep agent and daily brief synthesizer are planned for post-Italy 2026. The north star is Anthropic.
+
+---
+
 ## How it works
 
 **Track 1 — Primary target watch**
