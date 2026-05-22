@@ -5,6 +5,18 @@
 
 # ── Who you are ──────────────────────────────────────────────────────────────
 
+CANDIDATE_PROFILE = """\
+- ~13 years in product; currently Director of Product & Design at Wayfair; prior: Associate Director (Wayfair), PM Manager (Apple), Principal PM (Zest AI), Senior Manager Ad Product (Hulu), PM + SDE (Microsoft)
+- CS depth: MS Computer Science (USC); began career as SDE at Microsoft (Exchange Server); actively building multi-agent AI side projects (ChessDebrief, Learning Plan, Bloom — all live)
+- Current scope: leads product + design for customer service, incidents, returns, and supplier support — millions of interactions/year, >$1B post-order exposure
+- Proven financial impact: $250M+ in measurable cost savings across two consecutive Wayfair roles; reduced cost as % of revenue from 5.1% → 3.6%
+- AI/ML execution: shipped GenAI + agentic workflows at production scale (fraud detection, resolution automation); built ML model monitoring SaaS (ZAMLMonitor) at Zest AI
+- 0→1 track record: ZAMLMonitor (Zest AI), Apple One and Fitness acquisition journeys at launch, three live AI-native side projects
+- Platform scale: owned Hulu's $2B ads platform and Microsoft's $2B online ads delivery; fluent in technical platform PM work
+- Cross-functional leader: partners across engineering, data science, design, and ops; authored Wayfair's org-wide next-gen AI contact center strategy
+- Status: actively searching; Austin TX, willing to relocate for Tier A targets; pending Xometry offer, deadline Aug 15 2026
+- Target: Senior/Director PM at an AI-first company — strongest fit at the intersection of AI product, developer tooling, or platform monetization"""
+
 USER_NAME     = "Arun Ramalingam"
 USER_ROLE     = "Product Management leader (~10 years, including PM leadership at Wayfair)"
 USER_LOCATION = "Austin, TX"

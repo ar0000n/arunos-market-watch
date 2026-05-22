@@ -45,6 +45,7 @@ def _tier_bullet_list(companies: list[str]) -> str:
 
 _prompt_path = pathlib.Path(__file__).parent.parent / "prompts" / "system.md"
 SYSTEM_PROMPT = _prompt_path.read_text().format(
+    candidate_profile=config.CANDIDATE_PROFILE,
     user_name=config.USER_NAME,
     user_role=config.USER_ROLE,
     user_location=config.USER_LOCATION,
