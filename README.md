@@ -12,7 +12,7 @@ Built during a deliberate career transition after leaving Wayfair in May 2026. I
 
 Find the next career move is real and personal, which keeps the bar honest. If the agent surfaces noise, I waste time. If it misses a signal, I miss an opportunity. That forcing function produces better evals than any toy problem would.
 
-This is Track 1 of ArunOS — a larger multi-agent system. An interview prep agent and daily brief synthesizer are planned for post-Italy 2026. The north star is Anthropic.
+This is Track 1 of ArunOS — a larger multi-agent system. An Positioning Intelligence agent (what's my story and what's the gap) and a prioritizing brief agent (give today's reality, what's the move) are planned for post a small sabbatical/travel in June 2026. 
 
 ---
 
